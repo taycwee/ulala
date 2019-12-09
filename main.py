@@ -4,7 +4,7 @@ atk_spd = pd.read_csv('attack_speed.csv')
 skills = pd.read_csv('skills_db.csv')
 inputs = pd.read_csv('inputs.csv')
 
-#for each character
+#for each character, find the attack speed and charges for each skills
 
 char = []
 clock = 0 
