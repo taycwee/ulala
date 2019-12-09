@@ -4,5 +4,15 @@ atk_spd = pd.read_csv('attack_speed.csv')
 skills = pd.read_csv('skills_db.csv')
 inputs = pd.read_csv('inputs.csv')
 
-print(inputs.iloc[0][1])
+#for each character
+
+char = []
+clock = 0 
+print(inputs.iloc[0][0])
+char_class = inputs.iloc[0][0]
+#speed = atk_spd['class'=char_class]
+
+print(char_class)
+
+#while clock <= 60: 
 
