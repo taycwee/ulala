@@ -1,167 +1,167 @@
-class,skill_name,charge,charge_skill,cast_time,cc_duration
-Assassin,Reckless Lunge,3,,,
-Assassin,Reverberating Slam,3,,,
-Assassin,Double Throw Knives,3,,,
-Assassin,Bounce bounce bounce,4,,,
-Assassin,Cloak of Bush,2,,,
-Assassin,Pounce,3,,,
-Assassin,Pursing,4,,,
-Assassin,Roundhouse,3,,,
-Assassin,Backstab,3,,,
-Assassin,Fan of Knives,3,,,
-Assassin,Scatter Blade,3,,,
-Assassin,Fatal Knife,3,,,
-Assassin,Rupture,4,,,
-Assassin,Lacerations,3,,,
-Assassin,Zeal,3,,,
-Assassin,Ambush,3,,,
-Assassin,Poison Coat,2,,,
-Assassin,Shiv,3,,,
-Assassin,Swiftwind Draggers,4,,,
-Assassin,Fisr Bone Throwing Knife,3,,,
-Assassin,Mortal Wounds,3,,,
-Hunter,Storm Shot,3,,,
-Hunter,Steady Shot,2,,,
-Hunter,Arrow Barrage,3,,,
-Hunter,Multi-Shot,3,,,
-Hunter,Aspect of the Eagle,3,,,
-Hunter,Hawk Call – Sheen,3,,,
-Hunter,Weakpoint Shot,3,,,
-Hunter,Hawk Call – Gal,3,,,
-Hunter,Numbing Shot,2,,,
-Hunter,Explosive Shot,3,,,
-Hunter,Burning Shot,2,,,
-Hunter,Scatter Shot,3,,,
-Hunter,Hawk Call – Pan,2,,,
-Hunter,Sunder Armor Shot,3,,,
-Hunter,Flaying Arrow,3,,,
-Hunter,Boar’s Rush,3,,,
-Hunter,Aimed Shot,2,,,
-Hunter,Piercing Shot,3,,,
-Hunter,Quick Shot,2,,,
-Hunter,Volley,3,,,
-Hunter,Lunar Shot,3,,,
-Gladiator,Blood Howl,3,,,
-Gladiator,Whirlwind,3,,,
-Gladiator,Cleave,3,,,
-Gladiator,Toughen,3,,,
-Gladiator,Boil Blood,2,,,
-Gladiator,Hoo Kham Kham,2,,,
-Gladiator,Barbarian Veins,3,,,
-Gladiator,Blood Force,3,,,
-Gladiator,Intercept,3,,,
-Gladiator,Sacrifice,2,,,
-Gladiator,Rising Rage,3,,,
-Gladiator,Hoo hoo hoo,2,,,
-Gladiator,Death Denied,3,,,
-Gladiator,Uppercut,3,,,
-Gladiator,Battle Shout,3,,,
-Gladiator,Let’s Charge,3,,,
-Gladiator,Bloody Combat,2,,,
-Gladiator,Severing Strike,3,,,
-Gladiator,Frenzy,4,,,
-Gladiator,Fevered Pursuit,2,,,
-Warrior,Resolution,3,,,
-Warrior,Swipe,3,,,
-Warrior,Bramble Shield,3,,,
-Warrior,Fearless Shield,3,,,
-Warrior,Last Stand,4,,,
-Warrior,Hoo Kham Kham,2,,,
-Warrior,Protection Stance,3,,,
-Warrior,Shield of Protection,3,,,
-Warrior,Lion’s Roar,2,,,
-Warrior,Safeguard,2,,,
-Warrior,Giant’s Return,3,,,
-Warrior,Hoo haha hah,2,,,
-Warrior,Unbreakable Will,3,,,
-Warrior,Unbreakable Will,3,,,
-Warrior,Powerful Knock Up,3,,,
-Warrior,Call to Arms,3,,,
-Warrior,Stockpile,2,,,
-Warrior,Final Blow,3,,,
-Warrior,Overwhelming Assault,2,,,
-Warrior,Come Here,2,,,
-Warlock,Summon Violent Frog,2,,,
-Warlock,Incinerate,3,,,
-Warlock,Soul Birth,2,,,
-Warlock,Multi-Ignition,3,,,
-Warlock,Painful Ignition,3,,,
-Warlock,Soul Seal,3,,,
-Warlock,Soul Wave,2,,,
-Warlock,Chain Ignition,3,,,
-Warlock,Quack quack quack,3,,,
-Warlock,Frog Synergy,2,,,
-Warlock,Summon Elder Frog,3,,,
-Warlock,Drain,3,,,
-Warlock,Summon Pharmacist Frog,3,,,
-Warlock,Soul Lash,3,,,
-Warlock,Dehydration,3,,,
-Warlock,Polymorph: Frog,3,,,
-Warlock,Life Tap,1,,,
-Warlock,Soul Twins,3,,,
-Warlock,Conflagrate,2,,,
-Warlock,Dragonfire,3,,,
-Warlock,Ignite,3,,,
-Shaman,Raine Dance,3,,,
-Shaman,Riptide,3,,,
-Shaman,Spring Totem,3,,,
-Shaman,Drums of Purge,3,,,
-Shaman,Electric Shock,3,,,
-Shaman,Ancestral Protection,3,,,
-Shaman,Faith Protection,3,,,
-Shaman,Dance With Me,3,,,
-Shaman,Thunder Heart,3,,,
-Shaman,Drums of Recovery,3,,,
-Shaman,Drums of Rain,3,,,
-Shaman,Ancestral Gift,3,,,
-Shaman,Chain Heal,4,,,
-Shaman,Blessing of Spirits,4,,,
-Shaman,Font of Purge,3,,,
-Shaman,Recovery Totem,3,,,
-Shaman,Life Totem,2,,,
-Shaman,Surge,3,,,
-Shaman,Ancestral Aegis,3,,,
-Shaman,Fury of the Ancestors,2,,,
-Shaman,Charm Dance,3,,,
-Druid,Mend,3,,,
-Druid,Song of Life,3,,,
-Druid,Seed of Replenishment,4,,,
-Druid,Quills,4,,,
-Druid,Purification Seed,3,,,
-Druid,Lilly Transform,2,,,
-Druid,Tree Ward,4,,,
-Druid,Binding Heal,4,,,
-Druid,Flower Seed,3,,,
-Druid,Luna Blessing,2,,,
-Druid,Song of Protection,3,,,
-Druid,The Seed of Life,2,,,
-Druid,Tranquility,3,,,
-Druid,Force of Bud,3,,,
-Druid,Life Bloom,3,,,
-Druid,Extended Healing,3,,,
-Druid,Revitalize Nature,3,,,
-Druid,Natural Aegis,2,,,
-Druid,Ukaka Transform,2,,,
-Druid,New Bud,3,,,
-Druid,Quills Thrust,3,,,
-Mage,Magic Blast,3,,,
-Mage,Magic Intellect,3,,,
-Mage,Mirror Image,2,,,
-Mage,Meteorite,4,,,
-Mage,Lightning Wave,3,,,
-Mage,Fireball,3,,,
-Mage,Scorch,3,,,
-Mage,Fire Blast,3,,,
-Mage,Silence,3,,,
-Mage,Purification Wave,3,,,
-Mage,Seal Storm,2,,,
-Mage,Terminal Storm,3,,,
-Mage,Lightning Blast,3,,,
-Mage,Serenity,1,,,
-Mage,Frost Missile,3,,,
-Mage,Cone of Cold,1,,,
-Mage,Frostbolt,2,,,
-Mage,Magic Missiles,3,,,
-Mage,Blizzard,4,,,
-Mage,Forst Nova,3,,,
-Mage,Magic Suppression,3,,,
+class,skill_name,charge,cast_time,cc_duration
+Assassin,Reckless Lunge,3,0,0
+Assassin,Reverberating Slam,3,0,0
+Assassin,Double Throw Knives,3,0,0
+Assassin,Bounce bounce bounce,4,0,0
+Assassin,Cloak of Bush,2,0,0
+Assassin,Pounce,3,0,0
+Assassin,Pursing,4,0,0
+Assassin,Roundhouse,3,0,0
+Assassin,Backstab,3,0,0
+Assassin,Fan of Knives,3,0,0
+Assassin,Scatter Blade,3,0,0
+Assassin,Fatal Knife,3,0,0
+Assassin,Rupture,4,0,0
+Assassin,Lacerations,3,0,0
+Assassin,Zeal,3,0,0
+Assassin,Ambush,3,0,0
+Assassin,Poison Coat,2,0,0
+Assassin,Shiv,3,0,0
+Assassin,Swiftwind Draggers,4,0,0
+Assassin,Fisr Bone Throwing Knife,3,0,0
+Assassin,Mortal Wounds,3,0,0
+Hunter,Storm Shot,3,0,0
+Hunter,Steady Shot,2,0,0
+Hunter,Arrow Barrage,3,0,0
+Hunter,Multi-Shot,3,0,0
+Hunter,Aspect of the Eagle,3,0,0
+Hunter,Hawk Call – Sheen,3,0,0
+Hunter,Weakpoint Shot,3,0,0
+Hunter,Hawk Call – Gal,3,0,0
+Hunter,Numbing Shot,2,0,0
+Hunter,Explosive Shot,3,0,0
+Hunter,Burning Shot,2,0,0
+Hunter,Scatter Shot,3,0,0
+Hunter,Hawk Call – Pan,2,0,0
+Hunter,Sunder Armor Shot,3,0,0
+Hunter,Flaying Arrow,3,0,0
+Hunter,Boar’s Rush,3,0,0
+Hunter,Aimed Shot,2,0,0
+Hunter,Piercing Shot,3,0,0
+Hunter,Quick Shot,2,0,0
+Hunter,Volley,3,0,0
+Hunter,Lunar Shot,3,0,0
+Gladiator,Blood Howl,3,0,0
+Gladiator,Whirlwind,3,0,0
+Gladiator,Cleave,3,0,0
+Gladiator,Toughen,3,0,0
+Gladiator,Boil Blood,2,0,0
+Gladiator,Hoo Kham Kham,2,0,0
+Gladiator,Barbarian Veins,3,0,0
+Gladiator,Blood Force,3,0,0
+Gladiator,Intercept,3,0,0
+Gladiator,Sacrifice,2,0,0
+Gladiator,Rising Rage,3,0,0
+Gladiator,Hoo hoo hoo,2,0,0
+Gladiator,Death Denied,3,0,0
+Gladiator,Uppercut,3,0,0
+Gladiator,Battle Shout,3,0,0
+Gladiator,Let’s Charge,3,0,0
+Gladiator,Bloody Combat,2,0,0
+Gladiator,Severing Strike,3,0,0
+Gladiator,Frenzy,4,0,0
+Gladiator,Fevered Pursuit,2,0,0
+Warrior,Resolution,3,0,0
+Warrior,Swipe,3,0,0
+Warrior,Bramble Shield,3,0,0
+Warrior,Fearless Shield,3,0,0
+Warrior,Last Stand,4,0,0
+Warrior,Hoo Kham Kham,2,0,0
+Warrior,Protection Stance,3,0,0
+Warrior,Shield of Protection,3,0,0
+Warrior,Lion’s Roar,2,0,0
+Warrior,Safeguard,2,0,0
+Warrior,Giant’s Return,3,0,0
+Warrior,Hoo haha hah,2,0,0
+Warrior,Unbreakable Will,3,0,0
+Warrior,Unbreakable Will,3,0,0
+Warrior,Powerful Knock Up,3,0,0
+Warrior,Call to Arms,3,0,0
+Warrior,Stockpile,2,0,0
+Warrior,Final Blow,3,0,0
+Warrior,Overwhelming Assault,2,0,0
+Warrior,Come Here,2,0,0
+Warlock,Summon Violent Frog,2,0,0
+Warlock,Incinerate,3,0,0
+Warlock,Soul Birth,2,0,0
+Warlock,Multi-Ignition,3,0,0
+Warlock,Painful Ignition,3,0,0
+Warlock,Soul Seal,3,0,0
+Warlock,Soul Wave,2,0,0
+Warlock,Chain Ignition,3,0,0
+Warlock,Quack quack quack,3,0,0
+Warlock,Frog Synergy,2,0,0
+Warlock,Summon Elder Frog,3,0,0
+Warlock,Drain,3,0,0
+Warlock,Summon Pharmacist Frog,3,0,0
+Warlock,Soul Lash,3,0,0
+Warlock,Dehydration,3,0,0
+Warlock,Polymorph: Frog,3,0,0
+Warlock,Life Tap,1,0,0
+Warlock,Soul Twins,3,0,0
+Warlock,Conflagrate,2,0,0
+Warlock,Dragonfire,3,0,0
+Warlock,Ignite,3,0,0
+Shaman,Raine Dance,3,0,0
+Shaman,Riptide,3,0,0
+Shaman,Spring Totem,3,0,0
+Shaman,Drums of Purge,3,0,0
+Shaman,Electric Shock,3,0,0
+Shaman,Ancestral Protection,3,0,0
+Shaman,Faith Protection,3,0,0
+Shaman,Dance With Me,3,0,0
+Shaman,Thunder Heart,3,0,0
+Shaman,Drums of Recovery,3,0,0
+Shaman,Drums of Rain,3,0,0
+Shaman,Ancestral Gift,3,0,0
+Shaman,Chain Heal,4,0,0
+Shaman,Blessing of Spirits,4,0,0
+Shaman,Font of Purge,3,0,0
+Shaman,Recovery Totem,3,0,0
+Shaman,Life Totem,2,0,0
+Shaman,Surge,3,0,0
+Shaman,Ancestral Aegis,3,0,0
+Shaman,Fury of the Ancestors,2,0,0
+Shaman,Charm Dance,3,0,0
+Druid,Mend,3,0,0
+Druid,Song of Life,3,0,0
+Druid,Seed of Replenishment,4,0,0
+Druid,Quills,4,0,0
+Druid,Purification Seed,3,0,0
+Druid,Lilly Transform,2,0,0
+Druid,Tree Ward,4,0,0
+Druid,Binding Heal,4,0,0
+Druid,Flower Seed,3,0,0
+Druid,Luna Blessing,2,0,0
+Druid,Song of Protection,3,0,0
+Druid,The Seed of Life,2,0,0
+Druid,Tranquility,3,0,0
+Druid,Force of Bud,3,0,0
+Druid,Life Bloom,3,0,0
+Druid,Extended Healing,3,0,0
+Druid,Revitalize Nature,3,0,0
+Druid,Natural Aegis,2,0,0
+Druid,Ukaka Transform,2,0,0
+Druid,New Bud,3,0,0
+Druid,Quills Thrust,3,0,0
+Mage,Magic Blast,3,0,0
+Mage,Magic Intellect,3,0,0
+Mage,Mirror Image,2,0,0
+Mage,Meteorite,4,0,0
+Mage,Lightning Wave,3,0,0
+Mage,Fireball,3,0,0
+Mage,Scorch,3,0,0
+Mage,Fire Blast,3,0,0
+Mage,Silence,3,0,0
+Mage,Purification Wave,3,0,0
+Mage,Seal Storm,2,0,0
+Mage,Terminal Storm,3,0,0
+Mage,Lightning Blast,3,0,0
+Mage,Serenity,1,0,0
+Mage,Frost Missile,3,0,0
+Mage,Cone of Cold,1,0,0
+Mage,Frostbolt,2,0,0
+Mage,Magic Missiles,3,0,0
+Mage,Blizzard,4,0,0
+Mage,Forst Nova,3,0,0
+Mage,Magic Suppression,3,0,0

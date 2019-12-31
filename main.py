@@ -1,53 +1,30 @@
 import pandas as pd
 
+data = pd.read_csv('data.csv', index_col='class')
 atk_spd = pd.read_csv('attack_speed.csv', index_col='class')
-skills = pd.read_csv('skills_db.csv', index_col='skill_name')
-data = pd.read_csv('data.csv')
+skills_all = pd.read_csv('skills_db.csv', index_col='skill_name')
 
-char = []
+turn = []
 
-#for each character, find the attack speed and charges for each skills
-for i in range(0,4):
-  char_class = data.iloc[i][0]
-  char_speed = atk_spd.loc[char_class,'atk_spd']
-  char_skills = []
-  skill_charge = []
-
-  for n in range(1,5):
-    skill = data.iloc[i][n]
-    char_skills.append(skill)
-    temp = skills[skills['class']==char_class]
-    skill_charge.append(int(temp.loc[skill,'charge']))
-
-  if False:
-    print(char_class,':')
-    print('  attack speed =',atk_spd.loc[char_class,'atk_spd'])
-    for j in range(0,4): 
-      print('  skill {} = {} ({})'.format(j+1,char_skills[j],skill_charge[j]))
-    print()
-
-  time = 0
-  count = 0
-  last_skill = 0 
-  temp = []
-
-  while time < 70:
-    time = time + char_speed
-    count = count + 1
-    temp.append(time)
+#change 1 to 4 for all 4 classes
+for i in range(0,1):
+  job = data.index[i]
+  speed = atk_spd.loc[job,'atk_spd']
+  skills = skills_all[skills_all['class']==job].drop('class', axis=1)
+  skill = skills.loc[data.iloc[i]]
+  print(skill)
   
-  char.append(temp)
+  skill_turn.append(skill.iloc[0].charge)
+  print(skill_turn)
 
-while True: 
-  turn_min = min(char[0][0], char[1][0], char[2][0], char[3][0])
-  for m in range(0,4):
-    if turn_min == char[m][0]:
-      time = char[m].pop(0)
-      print('{0:.2f}s:'.format(time), '{} attacks'.format(data.iloc[m][0]))
-      break
+  time = 0 
+  turn = 1
+  action = []
+  while time < 70: 
+    
+    action.append([turn, time, 'Basic Attack'])
+    print('{0:.2f}s:'.format(time),job,'attacks')
 
-  left = len(char[0]) + len(char[1]) + len(char[2]) + len(char[3])
-  if left == 0:
-    break
-
+    time = time + speed
+    turn = turn + 1
 
